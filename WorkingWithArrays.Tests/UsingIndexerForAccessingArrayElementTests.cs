@@ -93,8 +93,8 @@ namespace WorkingWithArrays.Tests
             return UsingIndexerForAccessingArrayElement.GetFirstArrayElement(array);
         }
 
-        [TestCase(new[] { true }, ExpectedResult = true)]
-        [TestCase(new[] { true, false }, ExpectedResult = true)]
+        [TestCase(new[] { false, true }, ExpectedResult = true)]
+        [TestCase(new[] { false, true, false }, ExpectedResult = true)]
         public bool GetSecondArrayElement_ReturnsSecondBoolElement(bool[] array)
         {
             // Act
