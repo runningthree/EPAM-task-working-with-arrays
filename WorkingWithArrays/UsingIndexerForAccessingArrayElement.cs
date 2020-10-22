@@ -27,14 +27,14 @@ namespace WorkingWithArrays
         public static int GetLastElement(int[] array)
         {
             // TODO #2-4. Add the method implementation. The method should return a last element of the specified array.
-            // Use String.Length property to get a string length: https://docs.microsoft.com/en-us/dotnet/api/system.string.length
+            // Use Array.Length property to get an array length: https://docs.microsoft.com/en-us/dotnet/api/system.array.length
             throw new NotImplementedException();
         }
 
         public static int GetNextToLastElement(int[] array)
         {
             // TODO #2-5. Add the method implementation. The method should return a next to last element of the specified array.
-            // Use String.Length property to get a string length: https://docs.microsoft.com/en-us/dotnet/api/system.string.length
+            // Use Array.Length property to get an array length: https://docs.microsoft.com/en-us/dotnet/api/system.array.length
             throw new NotImplementedException();
         }
 
@@ -65,14 +65,14 @@ namespace WorkingWithArrays
         public static bool GetLastElement(bool[] array)
         {
             // TODO #2-10. Add the method implementation. The method should return a last element of the specified array.
-            // Use String.Length property to get a string length: https://docs.microsoft.com/en-us/dotnet/api/system.string.length
+            // Use Array.Length property to get an array length: https://docs.microsoft.com/en-us/dotnet/api/system.array.length
             throw new NotImplementedException();
         }
 
         public static bool GetNextToLastElement(bool[] array)
         {
             // TODO #2-11. Add the method implementation. The method should return a next to last element of the specified array.
-            // Use String.Length property to get a string length: https://docs.microsoft.com/en-us/dotnet/api/system.string.length
+            // Use Array.Length property to get an array length: https://docs.microsoft.com/en-us/dotnet/api/system.array.length
             throw new NotImplementedException();
         }
 
@@ -97,14 +97,14 @@ namespace WorkingWithArrays
         public static string GetLastElement(string[] array)
         {
             // TODO #2-15. Add the method implementation. The method should return a last element of the specified array.
-            // Use String.Length property to get a string length: https://docs.microsoft.com/en-us/dotnet/api/system.string.length
+            // Use Array.Length property to get an array length: https://docs.microsoft.com/en-us/dotnet/api/system.array.length
             throw new NotImplementedException();
         }
 
         public static string GetNextToLastElement(string[] array)
         {
             // TODO #2-16. Add the method implementation. The method should return a next to last element of the specified array.
-            // Use String.Length property to get a string length: https://docs.microsoft.com/en-us/dotnet/api/system.string.length
+            // Use Array.Length property to get an array length: https://docs.microsoft.com/en-us/dotnet/api/system.array.length
             throw new NotImplementedException();
         }
 
@@ -123,14 +123,14 @@ namespace WorkingWithArrays
         public static char GetLastElement(char[] array)
         {
             // TODO #2-19. Add the method implementation. The method should return a last element of the specified array.
-            // Use String.Length property to get a string length: https://docs.microsoft.com/en-us/dotnet/api/system.string.length
+            // Use Array.Length property to get an array length: https://docs.microsoft.com/en-us/dotnet/api/system.array.length
             throw new NotImplementedException();
         }
 
         public static char GetNextToLastElement(char[] array)
         {
             // TODO #2-20. Add the method implementation. The method should return a next to last element of the specified array.
-            // Use String.Length property to get a string length: https://docs.microsoft.com/en-us/dotnet/api/system.string.length
+            // Use Array.Length property to get an array length: https://docs.microsoft.com/en-us/dotnet/api/system.array.length
             throw new NotImplementedException();
         }
 
