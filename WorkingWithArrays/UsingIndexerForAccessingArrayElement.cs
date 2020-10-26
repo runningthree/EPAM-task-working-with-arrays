@@ -40,7 +40,7 @@ namespace WorkingWithArrays
 
         public static int GetNthArrayElement(int[] array, int n)
         {
-            // TODO #2-6. Add the method implementation. The method should return a next to last element of the specified array.
+            // TODO #2-6. Add the method implementation. The method should return a Nth element of the specified array.
             throw new NotImplementedException();
         }
 
@@ -168,7 +168,7 @@ namespace WorkingWithArrays
 
         public static float GetNinthArrayElement(float[] array)
         {
-            // TODO #2-26. Add the method implementation. The method should return a nineth element of the specified array.
+            // TODO #2-26. Add the method implementation. The method should return a ninth element of the specified array.
             throw new NotImplementedException();
         }
 
@@ -188,7 +188,7 @@ namespace WorkingWithArrays
 
         public static decimal GetLastElement(decimal[] array)
         {
-            // TODO #2-29. Add the method implementation. The method should return a next to last element of the specified array.
+            // TODO #2-29. Add the method implementation. The method should return a last element of the specified array.
             // Use index from end operator: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/ranges-indexes
             throw new NotImplementedException();
         }
