@@ -127,10 +127,10 @@ namespace WorkingWithArrays.Tests
             return UsingIndexerForAccessingArrayElement.GetNextToLastElement(array);
         }
 
-        [TestCase(new[] { true, false, false, false }, 0, ExpectedResult = true)]
-        [TestCase(new[] { false, true, false, false }, 1, ExpectedResult = true)]
-        [TestCase(new[] { false, false, true, false }, 2, ExpectedResult = true)]
-        [TestCase(new[] { false, false, false, true }, 3, ExpectedResult = true)]
+        [TestCase(new[] { true, false, false, false }, 1, ExpectedResult = true)]
+        [TestCase(new[] { false, true, false, false }, 2, ExpectedResult = true)]
+        [TestCase(new[] { false, false, true, false }, 3, ExpectedResult = true)]
+        [TestCase(new[] { false, false, false, true }, 4, ExpectedResult = true)]
         public bool GetNthArrayElement_ReturnsNthElement(bool[] array, int n)
         {
             // Act
