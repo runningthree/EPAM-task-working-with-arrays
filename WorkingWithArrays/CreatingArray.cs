@@ -248,9 +248,9 @@ namespace WorkingWithArrays
             throw new NotImplementedException();
         }
 
-        public static decimal[] CreateDecimalWithTenElements()
+        public static decimal[] CreateDecimalWithNineElements()
         {
-            // TODO #1-35. Add the method implementation. The method should return an array that contains ten doubles:
+            // TODO #1-35. Add the method implementation. The method should return an array that contains nine doubles:
             //  10.122112; 200.233223; 3,000.344334; 40,000.455445; 500,000.566556; 6,000,000.677667; 70,000,000.788778; 800,000,000.899889; 9,000,000,000.911991
             // Use implicitly typed array syntax: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/implicitly-typed-arrays
             throw new NotImplementedException();

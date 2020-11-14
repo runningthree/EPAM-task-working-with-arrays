@@ -402,10 +402,10 @@ namespace WorkingWithArrays.Tests
         }
 
         [Test]
-        public void CreateDecimalWithTenElements_ReturnsArrayWithTenElement()
+        public void CreateDecimalWithNineElements_ReturnsArrayWithNineElement()
         {
             // Act
-            decimal[] result = CreatingArray.CreateDecimalWithTenElements();
+            decimal[] result = CreatingArray.CreateDecimalWithNineElements();
 
             // Assert
             Assert.NotNull(result);
