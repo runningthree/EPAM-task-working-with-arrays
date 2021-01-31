@@ -158,7 +158,7 @@ namespace WorkingWithArrays
 
         public static string[] CreateStringArrayWithSixElements()
         {
-            // TODO #1-23. Add the method implementation. The method should return an array that contains three strings:
+            // TODO #1-23. Add the method implementation. The method should return an array that contains six strings:
             //  one; two; three; four; five; six
             // Use implicitly typed array syntax: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/implicitly-typed-arrays
             throw new NotImplementedException();
@@ -242,7 +242,7 @@ namespace WorkingWithArrays
 
         public static decimal[] CreateDecimalWithFiveElements()
         {
-            // TODO #1-34. Add the method implementation. The method should return an array that contains four doubles:
+            // TODO #1-34. Add the method implementation. The method should return an array that contains five doubles:
             //  1,000.1234; 100,000.2345; 100,000.3456; 1,000,000.456789; 10,000,000.5678901
             // Use implicitly typed array syntax: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/implicitly-typed-arrays
             throw new NotImplementedException();
