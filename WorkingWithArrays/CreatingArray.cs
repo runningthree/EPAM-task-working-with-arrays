@@ -79,19 +79,19 @@ namespace WorkingWithArrays
 
         public static double[] CreateArrayOfEighteenDoublesWithDefaultValues()
         {
-            // TODO #1-12. Add the method implementation. The method should return an array that contains eighteen doubles with default values.
+            // TODO #1-12. Add the method implementation. The method should return an array that contains eighteen elements with default values.
             throw new NotImplementedException();
         }
 
         public static float[] CreateArrayOfOneHundredFloatsWithDefaultValues()
         {
-            // TODO #1-13. Add the method implementation. The method should return an array that contains one hundred doubles with default values.
+            // TODO #1-13. Add the method implementation. The method should return an array that contains one hundred elements with default values.
             throw new NotImplementedException();
         }
 
         public static decimal[] CreateArrayOfOneThousandDecimalsWithDefaultValues()
         {
-            // TODO #1-14. Add the method implementation. The method should return an array that contains one thousand decimals with default values.
+            // TODO #1-14. Add the method implementation. The method should return an array that contains one thousand elements with default values.
             throw new NotImplementedException();
         }
 
@@ -189,14 +189,14 @@ namespace WorkingWithArrays
 
         public static double[] CreateDoubleArrayWithOneElement()
         {
-            // TODO #1-27. Add the method implementation. The method should return an array that contains one double: 1.12.
+            // TODO #1-27. Add the method implementation. The method should return an array that contains one element: 1.12.
             // Use implicitly typed array syntax: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/implicitly-typed-arrays
             throw new NotImplementedException();
         }
 
         public static double[] CreateDoubleWithFiveElements()
         {
-            // TODO #1-28. Add the method implementation. The method should return an array that contains five doubles:
+            // TODO #1-28. Add the method implementation. The method should return an array that contains five elements:
             //  1.12; 2.23; 3.34; 4.45; 5.56
             // Use implicitly typed array syntax: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/implicitly-typed-arrays
             throw new NotImplementedException();
@@ -204,7 +204,7 @@ namespace WorkingWithArrays
 
         public static double[] CreateDoubleWithNineElements()
         {
-            // TODO #1-29. Add the method implementation. The method should return an array that contains nine doubles:
+            // TODO #1-29. Add the method implementation. The method should return an array that contains nine elements:
             //  1.12; 2.23; 3.34; 4.45; 5.56; 6.67; 7.78; 8.89; 9.91
             // Use implicitly typed array syntax: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/implicitly-typed-arrays
             throw new NotImplementedException();
@@ -235,14 +235,14 @@ namespace WorkingWithArrays
 
         public static decimal[] CreateDecimalArrayWithOneElement()
         {
-            // TODO #1-33. Add the method implementation. The method should return an array that contains one double: 10,000.123456.
+            // TODO #1-33. Add the method implementation. The method should return an array that contains one element: 10,000.123456.
             // Use implicitly typed array syntax: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/implicitly-typed-arrays
             throw new NotImplementedException();
         }
 
         public static decimal[] CreateDecimalWithFiveElements()
         {
-            // TODO #1-34. Add the method implementation. The method should return an array that contains five doubles:
+            // TODO #1-34. Add the method implementation. The method should return an array that contains five elements:
             //  1,000.1234; 100,000.2345; 100,000.3456; 1,000,000.456789; 10,000,000.5678901
             // Use implicitly typed array syntax: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/implicitly-typed-arrays
             throw new NotImplementedException();
@@ -250,7 +250,7 @@ namespace WorkingWithArrays
 
         public static decimal[] CreateDecimalWithNineElements()
         {
-            // TODO #1-35. Add the method implementation. The method should return an array that contains nine doubles:
+            // TODO #1-35. Add the method implementation. The method should return an array that contains nine elements:
             //  10.122112; 200.233223; 3,000.344334; 40,000.455445; 500,000.566556; 6,000,000.677667; 70,000,000.788778; 800,000,000.899889; 9,000,000,000.911991
             // Use implicitly typed array syntax: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/implicitly-typed-arrays
             throw new NotImplementedException();
